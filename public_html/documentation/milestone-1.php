@@ -13,8 +13,8 @@
 		To let employers know that i am a person of character,
 			who would easily adapt to any work environment, always
 			willing and ready to learn, will to give the best of me
-		my best as a team member or as an individual, and will encourage
-		others colleagues.</p>
+		m as a team member or as an individual, and will encourage
+		others colleagues as we work together.</p>
 		<p>Employers looking for adaptable workers who are ready to
 		go the extra mile to work and give their best, not easily
 			discouraged by circumstances and differences in the work
