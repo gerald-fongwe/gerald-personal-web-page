@@ -6,9 +6,9 @@
 	</head>
 	<body>
 		<h1>The idea behind my web page</h1>
-		<p>The idea behind my web page will be to help middle age and above people, who are tired of their present jobs or
-			are unemployed and are looking forward to either changing career or looking for a new career. This will also help
-			people who come to the US after reaching middle age and are looking forward to going back to school for a career and
-			do not have the time to go through the regular four years degree programs or post graduate degree programs.The web
-			page will provide available short course programs like the <Strong>CNM STEMULUS</strong> programs and others </p>
+		<p>About me.
+			My web page is going to be about me, my coming to the US,
+			and the choices i have made and how those choices have
+			help me to become who i am and the choices i am making
+			now that will future equip me for the future. </p>
 	</body
