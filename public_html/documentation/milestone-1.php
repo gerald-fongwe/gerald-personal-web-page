@@ -6,9 +6,8 @@
 	</head>
 	<body>
 		<h1>The idea behind my web page</h1>
-		<p>About me.
-			My web page is going to be about me, my coming to the US,
+		<p>My web page is going to be about me, my coming to the US,
 			and the choices i have made and how those choices have
 			help me to become who i am and the choices i am making
-			now that will future equip me for the future. </p>
+			now that will future equip me for the future.</p>
 	</body
