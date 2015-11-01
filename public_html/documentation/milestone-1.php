@@ -22,6 +22,6 @@
 			employers especially those involved in customers service,
 			Oil and Gas companies because I have experience in those
 			areas and possibly institutions such as schools, colleges
-			and the government</p>
+			and the government.</p>
 
 	</body
