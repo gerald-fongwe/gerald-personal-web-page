@@ -14,7 +14,7 @@
 			who can easily adapt to any work environments, always
 			willing and ready to learn, willing to give the best of me
 		 as a team member or as an individual, reliable and will encourage
-		others colleagues as we work together.</p>
+		other colleagues as we work together.</p>
 		<p>Employers looking for adaptable workers who are ready to
 		go the extra mile to work and give their best, not easily
 			discouraged by circumstances and differences in the work
