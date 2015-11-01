@@ -20,7 +20,7 @@
 			discouraged by circumstances and differences in the work
 			environment. My website will be viewed by Corporate
 			employers especially those involved in customer service,
-			Oil and Gas companies because I have experience in those
+			Oil and Gas companies, because I have experience in those
 			areas and possibly institutions such as schools, colleges
 			and the government.</p>
 
