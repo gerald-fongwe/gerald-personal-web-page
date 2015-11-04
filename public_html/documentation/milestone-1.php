@@ -23,5 +23,5 @@
 			Oil and Gas companies, because I have experience in those
 			areas and possibly institutions such as schools, colleges
 			and the government.</p>
-
-	</body
+	</body>
+		</html>
