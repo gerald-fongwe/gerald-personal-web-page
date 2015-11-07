@@ -14,7 +14,7 @@
 			both front and back end languages.He is also very current with the changes happening in the IT word. Kelly is
 			looking forward to recruit a junior web developer who understands the structural differences between the
 			frontend and backend languages and can recognize, differentiate and use them to a certain level while maintaining
-			a stron level of security.</p>
+			a strong level of security.</p>
 
 
 
