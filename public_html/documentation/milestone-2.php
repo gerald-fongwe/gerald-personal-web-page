@@ -8,7 +8,7 @@
 		<h1>Persona, Use case and User experience</h1>
 		<h2>State Worker's Persona</h2>
 		<h3>Name: Kelly G. Bronson</h3>
-		<p><strong>Profession:<strong>Kelly is a 38 years old middle class senior developer, who works for the United
+		<p><strong>Profession:</strong>Kelly is a 38 years old middle class senior developer, who works for the United
 			state Postal services(USPS).
 			He is involved in the recruitment of entry level junior developers that will update and maintain the USPS
 			website in Albuquerque. He has been working as a web developer for the past eleven years and has a high level
