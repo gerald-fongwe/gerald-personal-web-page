@@ -18,15 +18,17 @@
 		<p><strong>Technology: </strong> He uses a 32" Lenovo Y50 Ultra HD, Intel i7 Laptop with windows 8, an HP
 			Pavilion 550qe Desktop, Intel i5 with windows 8 and a Samsung Galaxy Note 4 Android phone connected to G4
 			Network.</p>
-		<p><strong>Attitude and Behavior: </strong> Kelly is right now with
-			He is involved in the recruitment of entry level junior developers that will update and maintain the USPS
-			website in Albuquerque.  Kelly is
-			looking forward to recruit a junior web developer who understands the structural differences between the
-			frontend and backend languages and can recognize, differentiate and use them to a certain level while maintaining
-			a strong level of security.</p>looking for a replacement with a feature plan of restructuring and
-		redesigning of the website.
-
-
-
-
-	</body>
+		<p><strong>Attitude and Behavior: </strong> Kelly is short handed at work right now, with the lost of a worker and
+			is looking for a quick and promising fit for the position. He is loaded with work and is a family man with a
+			young 6 years girl he as to take for baseball practice every Tuesdays and Thursdays after work. He will
+			probably used professional social site such as LinkedIn to trim and quicken the recruitment process</p>
+		<p><strong>Needs: </strong>He wants to recruit an entry level junior developer that will be oriented for three
+			months on USPS IT system and will be involved in updating and maintaining the USPS website in Albuquerque.
+			Who understands the structural differences between the frontend and backend languages and can recognize,
+			differentiate and use them to certain level while maintaining a strong level of security.
+			</p>
+		<p><strong>Goal: </strong>Kelly is looking for a candidate with a strong work ethics, positive attitude and can
+			adapt to stressful and difficult situations.Kelly has about five minutes or less to take a look at the
+			candidates websites and to go through their resumes to determine the the best fit for the position </p>
+		</body>
+	</html>
