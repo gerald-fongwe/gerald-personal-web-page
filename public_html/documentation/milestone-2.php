@@ -13,7 +13,7 @@
 			website in Albuquerque. He just lost  one of his web developer who just got hired by a high profile
 			organization with a good pay. He has been working as a web developer for the past eleven years and has a high
 			level of understanding in the web development field and he has a very good grasp of almost all the computer
-			languages, both front and back end languages.He is also very current with the changes happening in the IT word.
+			languages, both front and back end languages.He is also very current with the changes happening in the IT world.
 			</p>
 		<p><strong>Technology: </strong> He uses a 32" Lenovo Y50 Ultra HD, Intel i7 Laptop with windows 8, an HP
 			Pavilion 550qe Desktop, Intel i5 with windows 8 and a Samsung Galaxy Note 4 Android phone connected to G4
