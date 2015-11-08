@@ -32,9 +32,15 @@
 			candidates websites and to go through their resumes to determine the the best fit for the position </p>
 
 		<h2>Use Case</h2>
-		<p>This job opening was posted on the State job Website. I had seen the job posting while searching for web
-			developer jobs and had aplied for the job. During the job application, I had Uploaded my resume and cover
-			letter and Kelly had gone through my application and had retained my application for further follow up.
+		<p>This job opening was posted on the State Job Website. I had seen the job posting while searching for web
+			developer jobs and had applied for the job. During the job application, I had Uploaded my resume and cover
+			letter and had added the link to my personal website.</p>
+			 <p>After the application dead line, Kelly G. Bronson signed in into the USPS website and gone through all the
+			applications and had retained  7 of them for further follow up and mine was one of them. Given that this is a
+			government job, there is a lot of hiring procedure to go through.</p> <p> So, I am contacted via mail that
+			my application was retained to go through the next step in the hiring process and 2 dates  and 7 time slots
+			were sent to me select from</p>.
+
 		</p>
 		</body>
 	</html>
