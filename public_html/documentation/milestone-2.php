@@ -30,5 +30,11 @@
 		<p><strong>Goal: </strong>Kelly is looking for a candidate with a strong work ethics, positive attitude and can
 			adapt to stressful and difficult situations.Kelly has about five minutes or less to take a look at the
 			candidates websites and to go through their resumes to determine the the best fit for the position </p>
+
+		<h2>Use Case</h2>
+		<p>This job opening was posted on the State job Website. I had seen the job posting while searching for web
+			developer jobs and had aplied for the job. During the job application, I had Uploaded my resume and cover
+			letter and Kelly had gone through my application and had retained my application for further follow up.
+		</p>
 		</body>
 	</html>
