@@ -40,7 +40,7 @@
 			government job, there is a lot of hiring procedure to go through.</p> <p> So, I am contacted via mail that
 			my application was retained to go through the next step in the hiring process and 2 dates  and 7 time slots
 			were sent to me select from and I replied by selecting Thursday December 8 at 1:30 PM as my interview day and
-			time</p>.
+			time the interview</p>.
 
 		</body>
 	</html>
