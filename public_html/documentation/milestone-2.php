@@ -39,8 +39,11 @@
 			applications and had retained  7 of them for further follow up and mine was one of them. Given that this is a
 			government job, there is a lot of hiring procedure to go through.</p> <p> So, I am contacted via mail that
 			my application was retained to go through the next step in the hiring process and 2 dates  and 7 time slots
-			were sent to me select from and I replied by selecting Thursday December 8 at 1:30 PM as my interview day and
-			time the interview</p>.
+			were sent to me select from and I replied by selecting Thursday December 8 at 1:30 PM as my day and
+			time of the interview</p>
+		<p>On I my interview day, i am arrive for the interview 15 minutes early at the central main Post Office. At
+		   exactly 1:30 pm , the secretary comes out and calls me into the interview room.  i am greeted by Mr.
+		   Bronson and Steve Jones will be assisting him today. I am usher into a seat and before they start asking
+			questions, Mr Bronson crab his lab top and signs into my web site and gets into my home page </p>
 
-		</body>
 	</html>
