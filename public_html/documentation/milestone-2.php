@@ -46,7 +46,8 @@
 		   Bronson and Steve Jones will be assisting him today. I am ushered into a seat and before they start asking
 			questions, Mr Bronson grabs his lab top and signs into my web site and gets into my home page </p>
 
-		<p>He is in my Home page(Building ==> Block), then he click on my Portfolio on the Blocks
-		table which also includes the About Me, My Contact and Experience.</p>
+		<p>He is in my Home page(Building ==> Block), then he click on My Portfolio on the Blocks
+		table which also includes the About Me and My Contact Tabs.</p>
+
 
 	</html>
