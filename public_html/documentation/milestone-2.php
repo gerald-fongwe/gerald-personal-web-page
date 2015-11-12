@@ -56,7 +56,7 @@
 			Please do click at the other tabs to learn more. <strong>"THANK YOU FOR TAKING A LOOK AT MY WEBSITE!!!."</strong>
 			</p>
 		<p><strong>About Me:</strong> I am an American citizen originally from Cameroon a small country in central Africa.
-			I came to the United State a little over five years ago and six months later i decided to go back to school.</p>
-		<p><strong>My Contact:</strong> </p>
+			I came to the United State a little over five years ago and six months later i decided to go back to school...</p>
+		<p><strong>My Contact:</strong>... </p>
 		</body>
 	</html>
