@@ -47,6 +47,6 @@
 			questions, Mr Bronson grabs his lab top and signs into my web site and gets into my home page </p>
 
 		<p>He is in my Home page(Building ==> Block), then he click on my Portfolio on the Blocks
-		table which also includes the about me, my contact and Experience.</p>
+		table which also includes the About Me, My Contact and Experience.</p>
 
 	</html>
