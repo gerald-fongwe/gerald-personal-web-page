@@ -47,9 +47,15 @@
 			questions, Mr Bronson grabs his lab top and signs into my web site and gets into my home page. </p>
 
 		<p>He is in my Home page(Building ==> Block), then he click on My Portfolio on the Blocks
-		table which also includes the About Me and My Contact Tabs.</p>
-		<p><strong>My Porfolio</strong> </p>
-		<p><strong>About Me</strong> </p>
+		   table which also includes the About Me and My Contact Tabs.</p>
+		<p><strong>My Portfolio</strong> My name is Gerald A. Fongwe, and I just graduated from the Deep Dive Coding
+			Bootcamp program offered by CNM, which is a really good two and half months program for those who are looking
+			for a new career path or are tired of their present jobs and are looking for something new. The program
+			is intense and will require some sacrifice, but I believe it will pay off in the future. If you are looking at
+			this page, you are looking at what i have done and what i can bring to your company as website developer.
+		   </p>
+		<p><strong>About Me</strong> I am an American citizen originally from Cameroon a small country in central Africa.
+			I came to the United State a little over five years ago and six months later i decided to go back to school</p>
 		<p><strong>My Contact</strong> </p>
 		</body>
 	</html>
