@@ -48,6 +48,8 @@
 
 		<p>He is in my Home page(Building ==> Block), then he click on My Portfolio on the Blocks
 		table which also includes the About Me and My Contact Tabs.</p>
-
+		<p><strong>My Porfolio</strong> </p>
+		<p><strong>About Me</strong> </p>
+		<p><strong>My Contact</strong> </p>
 
 	</html>
