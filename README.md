@@ -10,3 +10,8 @@ future, as time is very limited for our class projects.
 There are a few minor errors in your HTML.
 - The closing &lt;/body&gt; tag is incomplete.
 - You are missing a closing &lt;/html&gt; tag.
+
+##Milestone 2 Feedback
+Nice work on Milestone 2. I see three pages that you plan to create for your site: Portfolio, About Me, and Contact. Will there be a Home or landing page as well?
+
+Your HTML looks good, and all requirements have been met. Your Milestone 2 passes at [Tier III](https://bootcamp-coders.cnm.edu/projects/personal/rubric/).
