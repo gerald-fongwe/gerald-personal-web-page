@@ -41,9 +41,12 @@
 			my application was retained to go through the next step in the hiring process and 2 dates  and 7 time slots
 			were sent to me select from and I replied by selecting Thursday December 8 at 1:30 PM as my day and
 			time of the interview</p>
-		<p>On I my interview day, i arrive for the interview 15 minutes early at the central main Post Office. At
+		<p>On On my interview day, i arrive for the interview 15 minutes early at the central main Post Office. At
 		   exactly 1:30 pm , the secretary comes out and calls me into the interview room.  i am greeted by Mr.
 		   Bronson and Steve Jones will be assisting him today. I am ushered into a seat and before they start asking
 			questions, Mr Bronson grabs his lab top and signs into my web site and gets into my home page </p>
+
+		<p>He is in my Home page(Building--->Block), then he click on my Portfolio on the Blocks
+		table which also includes the about me, my contact and Experience.</p>
 
 	</html>
