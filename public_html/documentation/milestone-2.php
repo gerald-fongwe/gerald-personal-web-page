@@ -51,5 +51,5 @@
 		<p><strong>My Porfolio</strong> </p>
 		<p><strong>About Me</strong> </p>
 		<p><strong>My Contact</strong> </p>
-
+		</body>
 	</html>
