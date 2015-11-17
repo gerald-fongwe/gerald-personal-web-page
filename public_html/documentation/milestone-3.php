@@ -19,8 +19,12 @@
 		<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.14.0/jquery.validate.min.js"></script>
 		<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.14.0/additional-methods.min.js"></script>
 		<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-		<title>Mileston-3</title>
+		<title>Mileston-3: Wireframe</title>
 	</head>
+	<div class="header">
+		<div class="container">
+			<a class="logo" href="#">Milestone 2 Framework</a>
+
 	<body>
 
 	</body>
