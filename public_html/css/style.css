@@ -3,20 +3,37 @@ body {
 	margin: auto;
 }
 header {
-	height: 50px;
-	background: cadetblue;
+	height: 150px;
+	background: black;
 	max-font-size: small;
 }
 
 li {
 	list-style: none;
 	float: right;
-	margin-left: 15px
+	margin-left: 15px;
 }
-
 .nav {
 	float: right;
-	height: 35px;
+	height: 45px;
+	padding: 25px
+}
+.logo {
+	font-size: 45px;
+	margin: 25px;
+	padding: 10px;
 	color: blue;
-	padding: 10px
+	height: 35px;
+}
+
+.bg-dark{background-color: lightblue
+}
+.bg-box {
+	margin: 0 0 50px 0;
+	padding: 20px;
+}
+footer{
+	height: 150px;
+	margin: 100px 0 100px 0;
+	background-color: black;
 }

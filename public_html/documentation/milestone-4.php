@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
 	<head>
 		<meta charset="utf-8"/>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
@@ -25,17 +25,91 @@
 		<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 		<title>Milestone-3</title>
 	</head>
-	<header>
-		<div class="container">
-			<a class="logo" href="#">Building Bricks</a>
+	<!--<body class="sfooter">
+		<div class="sfooter-content">-->
 
-			<div class="nav">
-				<ul>
-					<li><a href="#">Home</a></li>
-					<li><a href="#">Portfolio</a></li>
-					<li><a href="#">About Me</a></li>
-					<li><a href="#">Contact</a></li>
-				</ul>
-			</div>
-		</div>
-	</header>
+			<!--header and navbar-->
+			<header id="top">
+				<nav class="navbar navbar-fixed-top" style="box-shadow: rgba(0, 0, 0, 0.8) 0px 0px 50px; background-color: rgb(0, 0, 0);">
+					<div class="container">
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapsed">
+								<span class="sr-only">Main Menu</span>
+								<i class="fa fa-th fa-2x"></i>
+							</button>
+
+							<!--header branding for md and lg screens-->
+							<a class="navbar-brand hidden-xs hidden-sm" href="/class-materials/bootstrap/stellar-parallax.php"><span class="fa fa-bolt"></span>MILESTONE-4</a>
+
+							<!--header branding for xs and sm screens-->
+							<a class="navbar-brand visible-xs-block visible-sm-block" href="#">S&nbsp;<span class="fa fa-bolt"></span>&nbsp;P</a>
+
+						</div>
+						<div class="collapse navbar-collapse" id="navbar-collapsed">
+							<ul class="nav navbar-nav navbar-right">
+								<li><a href="#top"><i class="fa fa-home"></i></a></li>
+								<li><a href="#portfolio">Portfolio</a></li>
+								<li><a href="#about">About</a></li>
+								<li><a href="#contact">Contact</a></li>
+							</ul>
+						</div>
+					</div>
+				</nav>
+
+			</header>
+			<main>
+				<section class="parallax" data-stellar-background-ratio="0.5" id="contact" style="background-position: 50% -221.6px;">
+					<div class="container">
+						<div class="row row-flex row-flex-wrap">
+							<div class="col-md-3">
+								<div class="text-center bg-box bg-dark">
+							<span class="fa-stack fa-2x">
+								<i class="fa fa-circle fa-stack-2x"></i>
+								<i class="fa fa-magic fa-stack-1x icon-inverse"></i>
+							</span>
+									<h3>HOME</h3>
+									<p class="text-justify"><a href="http://markdalgleish.com/projects/stellar.js/" target="_blank">Home</a></p>
+								</div>
+							</div>
+							<div class="col-md-3">
+								<div class="text-center bg-box bg-dark">
+							<span class="fa-stack fa-2x">
+								<i class="fa fa-circle fa-stack-2x"></i>
+								<i class="fa fa-css3 fa-stack-1x icon-inverse"></i>
+							</span>
+									<h3>PORTFOLIO</h3>
+									<p class="text-justify"><a href="https://daneden.github.io/animate.css/" target="_blank">Portfolio</a></p>
+								</div>
+							</div>
+							<div class="col-md-3">
+								<div class="text-center bg-box bg-dark">
+							<span class="fa-stack fa-2x">
+								<i class="fa fa-circle fa-stack-2x"></i>
+								<i class="fa fa-tasks fa-stack-1x icon-inverse"></i>
+							</span>
+									<h3>ABOUT ME</h3>
+									<p class="text-justify"><a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank">About Me</a></p>
+								</div>
+							</div>
+							<div class="col-md-3">
+								<div class="text-center bg-box bg-dark">
+							<span class="fa-stack fa-2x">
+								<i class="fa fa-circle fa-stack-2x"></i>
+								<i class="fa fa-gears fa-stack-1x icon-inverse"></i>
+							</span>
+									<h3>CONTACT</h3>
+									<p class="text-justify"><a href="http://getbootstrap.com/" target="_blank">Contact</a></p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+			</main>
+			<!--footer lives here-->
+		<footer class="footer">
+					<div class="container">
+						<a href="/class-materials/bootstrap/stellar-parallax.php"><span class="fa fa-bolt"></span>&nbsp;MILESTONE-4</a>
+					</div>
+		</footer>
+	<!--</body>-->
+
