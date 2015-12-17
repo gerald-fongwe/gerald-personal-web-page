@@ -69,7 +69,7 @@
 								<i class="fa fa-magic fa-stack-1x icon-inverse"></i>
 							</span>
 									<h3>HOME</h3>
-									<p class="text-justify"><a href=milestone-2.php>Home</a></p>
+									<p class="text-justify"><a href="img.php/">Home</a></p>
 								</div>
 							</div>
 							<div class="col-md-3">
