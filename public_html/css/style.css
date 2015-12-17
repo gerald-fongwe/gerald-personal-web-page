@@ -1,6 +1,8 @@
 body {
+	background-image: url("../documentation/img/welcome.jpg");
 	width: 100%;
 	margin: auto;
+	/*background-color: lightblue;*/
 }
 header {
 	height: 150px;

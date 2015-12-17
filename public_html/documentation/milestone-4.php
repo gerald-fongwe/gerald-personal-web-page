@@ -25,6 +25,7 @@
 		<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 		<title>Milestone-3</title>
 	</head>
+	<body>
 	<!--<body class="sfooter">
 		<div class="sfooter-content">-->
 
@@ -37,14 +38,14 @@
 								<span class="sr-only">Main Menu</span>
 								<i class="fa fa-th fa-2x"></i>
 							</button>
+							</div>
 
 							<!--header branding for md and lg screens-->
-							<a class="navbar-brand hidden-xs hidden-sm" href="/class-materials/bootstrap/stellar-parallax.php"><span class="fa fa-bolt"></span>MILESTONE-4</a>
+							<a class="navbar-brand hidden-xs hidden-sm" href="img.php">Milestone-4</a>
 
 							<!--header branding for xs and sm screens-->
-							<a class="navbar-brand visible-xs-block visible-sm-block" href="#">S&nbsp;<span class="fa fa-bolt"></span>&nbsp;P</a>
+							<a class="navbar-brand visible-xs-block visible-sm-block" href="#">&nbsp;<span class="fa fa-bolt"></span>&nbsp;P</a>
 
-						</div>
 						<div class="collapse navbar-collapse" id="navbar-collapsed">
 							<ul class="nav navbar-nav navbar-right">
 								<li><a href="#top"><i class="fa fa-home"></i></a></li>
@@ -68,7 +69,7 @@
 								<i class="fa fa-magic fa-stack-1x icon-inverse"></i>
 							</span>
 									<h3>HOME</h3>
-									<p class="text-justify"><a href="http://markdalgleish.com/projects/stellar.js/" target="_blank">Home</a></p>
+									<p class="text-justify"><a href=milestone-2.php>Home</a></p>
 								</div>
 							</div>
 							<div class="col-md-3">
@@ -78,7 +79,7 @@
 								<i class="fa fa-css3 fa-stack-1x icon-inverse"></i>
 							</span>
 									<h3>PORTFOLIO</h3>
-									<p class="text-justify"><a href="https://daneden.github.io/animate.css/" target="_blank">Portfolio</a></p>
+									<p class="text-justify"><a href="milestone-1.php/">Portfolio</a></p>
 								</div>
 							</div>
 							<div class="col-md-3">
@@ -88,7 +89,7 @@
 								<i class="fa fa-tasks fa-stack-1x icon-inverse"></i>
 							</span>
 									<h3>ABOUT ME</h3>
-									<p class="text-justify"><a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank">About Me</a></p>
+									<p class="text-justify"><a href="milestone-2.php/">About Me</a></p>
 								</div>
 							</div>
 							<div class="col-md-3">
@@ -98,7 +99,7 @@
 								<i class="fa fa-gears fa-stack-1x icon-inverse"></i>
 							</span>
 									<h3>CONTACT</h3>
-									<p class="text-justify"><a href="http://getbootstrap.com/" target="_blank">Contact</a></p>
+									<p class="text-justify"><a href="contact-me-form.php/">Contact</a></p>
 								</div>
 							</div>
 						</div>
@@ -108,8 +109,8 @@
 			<!--footer lives here-->
 		<footer class="footer">
 					<div class="container">
-						<a href="/class-materials/bootstrap/stellar-parallax.php"><span class="fa fa-bolt"></span>&nbsp;MILESTONE-4</a>
+						<a href="/img.php">Milestone-4</a>
 					</div>
 		</footer>
-	<!--</body>-->
+	</body>
 
