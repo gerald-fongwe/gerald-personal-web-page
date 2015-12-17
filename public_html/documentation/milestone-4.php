@@ -23,7 +23,7 @@
 		<script type="text/javascript"
 				  src="//cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.14.0/additional-methods.min.js"></script>
 		<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-		<title>Milestone-3</title>
+		<title>Milestone-4</title>
 	</head>
 	<body>
 	<!--<body class="sfooter">
